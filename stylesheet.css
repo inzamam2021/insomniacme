@@ -1,0 +1,151 @@
+body
+{
+    font-family: "Montserrat";
+    background-image: url("images/bg.jpg");
+    background-repeat: repeat;
+    background-size: cover;
+}
+.container-fluid {
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+  }
+.propic{
+    height: 350px;
+    width: 350px;
+    border-radius: 50%;
+}
+
+.navbar{
+    background-color: #fcbc3e;
+}
+
+.propic-div
+{
+    padding-left: 5% !important;
+}
+
+.navbar-brand
+{
+    margin-left: 10px;
+    color:black !important;
+    font-size:20px !important;
+    font-weight: bolder !important;
+}
+
+
+.navbar-nav
+{
+    margin-right: 10px;
+    font-size:20px !important;
+}
+
+.nav-item
+{
+    padding: 0 18px;
+    
+}
+
+.nav-link
+{
+    color: black!important;;
+}
+
+.row
+{
+   margin-right: 0px !important;
+   margin-top: 10px !important;
+}
+
+.social-media
+{
+    margin-left: 0px;
+    padding: 0px 0px 0px 5% !important;
+}
+
+.hello
+{
+    color: red !important;
+}
+
+.name
+{
+    color:rgb(2, 115, 135) !important;
+}
+
+#title
+{
+    padding-top: 2%;
+}
+
+h1{
+
+    padding-top: 10%;
+    margin-top: 20px !important;
+    margin-left: 20px;
+    color: black!important;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+#features
+{
+    padding-top: 5%;
+    padding-left:1%;
+    padding-bottom:5%;
+    font-size: x-large;
+    color: black;
+}
+
+.feature-box
+{
+    text-align: center;
+}
+
+#about-me
+{
+    background-color: rgba(161,215,239,255);
+}
+ 
+.man-test-class
+{
+    padding-top: 2%;
+    padding-left: 15% !important;
+}
+.man-test-class2
+{
+    padding-top: 2%;
+    padding-right: 15% !important;
+    font-size: 25px;
+}
+
+h2{
+    padding-left: 40%;
+    padding-top: 4%;
+    padding-bottom: 4%;
+}
+
+#cards
+{
+    padding-top: 2%;
+    padding-bottom: 3%;
+    padding-left: 6%;
+    padding-right: 6%;
+}
+
+.skills
+{
+    height: 80px;
+}
+
+.card-body
+{
+    text-align: center !important;
+}
+
+#slides
+{
+    height: 600px;
+    width: 1200px;
+    padding-left: 20%;
+    padding-bottom: 0px !important;
+} 
